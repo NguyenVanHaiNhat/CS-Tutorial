@@ -1,0 +1,5 @@
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\publish\CS002.exe
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\publish\CS002.dll
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\publish\CS002.deps.json
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\publish\CS002.runtimeconfig.json
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\publish\CS002.pdb

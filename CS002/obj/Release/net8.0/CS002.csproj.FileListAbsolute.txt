@@ -1,0 +1,15 @@
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\CS002.exe
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\CS002.deps.json
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\CS002.runtimeconfig.json
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\CS002.dll
+E:\C#\C#-Tutorial\CS002\bin\Release\net8.0\CS002.pdb
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\CS002.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\CS002.AssemblyInfoInputs.cache
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\CS002.AssemblyInfo.cs
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\CS002.csproj.CoreCompileInputs.cache
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\CS002.sourcelink.json
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\CS002.dll
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\refint\CS002.dll
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\CS002.pdb
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\CS002.genruntimeconfig.cache
+E:\C#\C#-Tutorial\CS002\obj\Release\net8.0\ref\CS002.dll
