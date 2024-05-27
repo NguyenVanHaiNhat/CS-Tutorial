@@ -1,0 +1,15 @@
+E:\C#\C#-Tutorial\Async-Await\bin\Debug\net8.0\Async-Await.exe
+E:\C#\C#-Tutorial\Async-Await\bin\Debug\net8.0\Async-Await.deps.json
+E:\C#\C#-Tutorial\Async-Await\bin\Debug\net8.0\Async-Await.runtimeconfig.json
+E:\C#\C#-Tutorial\Async-Await\bin\Debug\net8.0\Async-Await.dll
+E:\C#\C#-Tutorial\Async-Await\bin\Debug\net8.0\Async-Await.pdb
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\Async-Await.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\Async-Await.AssemblyInfoInputs.cache
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\Async-Await.AssemblyInfo.cs
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\Async-Await.csproj.CoreCompileInputs.cache
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\Async-Await.sourcelink.json
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\Async-Await.dll
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\refint\Async-Await.dll
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\Async-Await.pdb
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\Async-Await.genruntimeconfig.cache
+E:\C#\C#-Tutorial\Async-Await\obj\Debug\net8.0\ref\Async-Await.dll
